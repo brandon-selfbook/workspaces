@@ -1,11 +1,10 @@
 {
-  "name": "@smallparade/station",
+  "name": "@brandon_selfbook/station",
   "version": "2.0.2",
   "main": "index.js",
   "license": "MIT",
-  "private": true,
   "dependencies": {
-    "@smallparade/ui-kit": "^2.0.2",
+    "@brandon_selfbook/ui-kit": "^2.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }

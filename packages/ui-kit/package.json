@@ -1,9 +1,8 @@
 {
-  "name": "@smallparade/ui-kit",
+  "name": "@brandon_selfbook/ui-kit",
   "version": "2.0.2",
   "main": "index.js",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
