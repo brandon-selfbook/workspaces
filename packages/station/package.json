@@ -1,11 +1,11 @@
 {
   "name": "@smallparade/station",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "index.js",
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@smallparade/ui-kit": "^2.0.1",
+    "@smallparade/ui-kit": "^2.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
