@@ -1,0 +1,7 @@
+{
+  "name": "@brandon_selfbook/private",
+  "version": "1.2.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
