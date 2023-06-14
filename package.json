@@ -1,8 +1,8 @@
 {
   "changelog": {
     "labels": {
-      "feat": "New Feature",
-      "fix": "Bug Fix"
+      "enhancement": "Feature",
+      "bug": "Bug Fix"
     }
   },
   "license": "MIT",
