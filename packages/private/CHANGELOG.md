@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/private@1.2.1...@brandon_selfbook/private@1.3.0) (2023-06-14)
+
+
+### Features
+
+* test private package dependency ([#11](https://github.com/brandon-selfbook/workspaces/issues/11)) ([c1a7565](https://github.com/brandon-selfbook/workspaces/commit/c1a756561f1194f741ae1d58f2437bea83705a24))
+
+
+
+
+
 ## [1.2.1](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/private@1.2.0...@brandon_selfbook/private@1.2.1) (2023-06-14)
 
 
