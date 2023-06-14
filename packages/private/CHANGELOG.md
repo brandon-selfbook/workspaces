@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/private@1.1.0...@brandon_selfbook/private@1.2.0) (2023-06-14)
+
+
+### Features
+
+* update package messages ([#7](https://github.com/brandon-selfbook/workspaces/issues/7)) ([cc555ce](https://github.com/brandon-selfbook/workspaces/commit/cc555ce4f7f8f46fc6650400f99646f184cb1cbf))
+
+
+
+
+
 # [1.1.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/private@1.0.1...@brandon_selfbook/private@1.1.0) (2023-06-14)
 
 
