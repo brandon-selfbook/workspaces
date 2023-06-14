@@ -1,3 +1,4 @@
 module.exports = (message) => {
-    console.log('Delivery message: ' + message);
+    console.log('DELIVERY');
+    console.log('   ' + message);
 };
