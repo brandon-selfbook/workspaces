@@ -1,4 +1,10 @@
 {
+  "changelog": {
+    "labels": {
+      "feat": "New Feature",
+      "fix": "Bug Fix"
+    }
+  },
   "license": "MIT",
   "main": "index.js",
   "name": "@brandon_selfbook/workspaces",
