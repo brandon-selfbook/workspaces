@@ -3,7 +3,8 @@ var private = require("@brandon_selfbook/private");
 var pkg = require("./package.json");
 
 module.exports = () => {
-    console.log('UI Kit ' + pkg.version);
-    delivery('Fuck yeah!');
+    console.log('UI KIT ');
+    console.log('   ' + pkg.version);
+    delivery('  Fuck yeah!');
     private();
 };
