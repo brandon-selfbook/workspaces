@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('PRIVATE');
+    console.log('Package: PRIVATE');
 };
