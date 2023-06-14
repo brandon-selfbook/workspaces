@@ -5,6 +5,6 @@ var pkg = require("./package.json");
 module.exports = () => {
     console.log('Pkg: UI KIT');
     console.log('   ' + pkg.version);
-    delivery('  Fuck yeah!');
+    delivery('  Oh yeah!');
     private();
 };
