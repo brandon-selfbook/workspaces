@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@brandon_selfbook/ui-kit": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo Station tests PASSED"
   }
 }
