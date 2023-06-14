@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.6.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/ui-kit@2.5.2...@brandon_selfbook/ui-kit@2.6.0) (2023-06-14)
+
+
+### Features
+
+* test private package dependency ([#11](https://github.com/brandon-selfbook/workspaces/issues/11)) ([c1a7565](https://github.com/brandon-selfbook/workspaces/commit/c1a756561f1194f741ae1d58f2437bea83705a24))
+
+
+
+
+
 ## [2.5.2](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/ui-kit@2.5.1...@brandon_selfbook/ui-kit@2.5.2) (2023-06-14)
 
 
