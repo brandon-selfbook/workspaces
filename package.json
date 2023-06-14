@@ -24,7 +24,6 @@
     "nx-cloud": "latest"
   },
   "scripts": {
-    "lerna": "lerna",
-    "test": "echo TESTS PASSED"
+    "lerna": "lerna"
   }
 }
