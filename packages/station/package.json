@@ -1,10 +1,10 @@
 {
   "name": "@brandon_selfbook/station",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@brandon_selfbook/ui-kit": "^2.6.0"
+    "@brandon_selfbook/ui-kit": "^2.7.0"
   },
   "scripts": {
     "test": "echo Station tests PASSED"

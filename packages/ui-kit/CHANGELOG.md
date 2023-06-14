@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.7.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/ui-kit@2.6.0...@brandon_selfbook/ui-kit@2.7.0) (2023-06-14)
+
+
+### Bug Fixes
+
+* language tweak ([75544ec](https://github.com/brandon-selfbook/workspaces/commit/75544ec3dafe105136a8e47999108e6452c5817f))
+
+
+### Features
+
+* update language ([#12](https://github.com/brandon-selfbook/workspaces/issues/12)) ([a78ed9e](https://github.com/brandon-selfbook/workspaces/commit/a78ed9ea64ba87b2aaea3377d12b3bf2256c093a))
+
+
+
+
+
 # [2.6.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/ui-kit@2.5.2...@brandon_selfbook/ui-kit@2.6.0) (2023-06-14)
 
 
