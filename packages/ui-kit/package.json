@@ -1,6 +1,6 @@
 {
   "name": "@brandon_selfbook/ui-kit",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {

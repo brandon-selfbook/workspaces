@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.5.1](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/ui-kit@2.5.0...@brandon_selfbook/ui-kit@2.5.1) (2023-06-14)
+
+
+### Bug Fixes
+
+* update log messages ([#8](https://github.com/brandon-selfbook/workspaces/issues/8)) ([4b99dc2](https://github.com/brandon-selfbook/workspaces/commit/4b99dc23417d32f17ec129b8a3dc9d38da768811))
+
+
+
+
+
 # [2.5.0](https://github.com/brandon-selfbook/workspaces/compare/@brandon_selfbook/ui-kit@2.4.0...@brandon_selfbook/ui-kit@2.5.0) (2023-06-14)
 
 
